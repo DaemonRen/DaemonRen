@@ -10,7 +10,6 @@ I'm Ben, I'm a Junior Full Stack Developer with experience in these technologies
 
 <br>
 
-<p align="left">
 - Javascript using ES6.
 - Semantic HTML
 - CSS/SCSS
@@ -18,7 +17,6 @@ I'm Ben, I'm a Junior Full Stack Developer with experience in these technologies
 - Java
 - Springboot
 - MySQL
-  </p>
 
 
 
