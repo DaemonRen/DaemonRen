@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88495283/150962640-7fc42d18-8542-4013-99f7-a573a6b1c1e8.svg" alt="Ben's custom image"/>
+  <img src="https://user-images.githubusercontent.com/88495283/150963649-03447520-2d52-4120-b16f-dcaa1b59dfd4.svg" alt="Ben's custom image"/>
 </p>
 
 
