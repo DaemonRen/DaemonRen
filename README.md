@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![githubHeader](https://user-images.githubusercontent.com/88495283/150962640-7fc42d18-8542-4013-99f7-a573a6b1c1e8.svg)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88495283/150962640-7fc42d18-8542-4013-99f7-a573a6b1c1e8.svg" alt="Ben's custom image"/>
+</p>
 
 <!--
 **DaemonRen/DaemonRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
