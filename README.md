@@ -4,12 +4,9 @@
 </p>
 
 ### Hi there 👋
-<p align="center">
+
 I'm Ben, I'm a Junior Full Stack Developer with experience in these technologies:
-</p>
-
 <br>
-
 - Javascript using ES6.
 - Semantic HTML
 - CSS/SCSS
